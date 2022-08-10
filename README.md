@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @DKVengeance
+- 👋 Hi, I’m José Ignacio Rodríguez
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
